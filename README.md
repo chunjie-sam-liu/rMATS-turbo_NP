@@ -17,3 +17,8 @@ Source code and Supplemental data related to the rMATS-turbo manuscript
     - circlize
     - ggplot2
     - ggrepel
+
+## Set up running packages
+```
+bash env.sh
+```
